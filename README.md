@@ -10,4 +10,4 @@ The files contain the code for the battleships project, made for a programing as
 Have fun playing our game and enjoy!
 
 ## Contributers 
-Mara, Lotta, Chris, Mathis, Emilio
+Mara-S15, Lotta, christophermueller19, MathisKnobloch, gonzopbj

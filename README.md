@@ -10,4 +10,4 @@ The files contain the code for the battleships project, made for a programing as
 Have fun playing our game and enjoy!
 
 ## Contributers 
-Mara-S15, Lotta, christophermueller19, MathisKnobloch, gonzopbj
+[Mara-S15](https://github.com/Mara-S15), Lotta, [christophermueller19](https://github.com/christophermueller19), [MathisKnobloch](https://github.com/MathisKnobloch), [gonzopbj](https://github.com/gonzopbj)
